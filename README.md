@@ -2,10 +2,10 @@
 
 <h3>Follow My Social:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-rendiwibawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rendi-wibawa/)](https://www.linkedin.com/in/rendiwibawa/)
+[![Linkedin Badge](https://img.shields.io/badge/-rendiwibawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rendi-wibawa-2890b81b8/)](https://www.linkedin.com/in/rendi-wibawa-2890b81b8/)
 [![Gmail Badge](https://img.shields.io/badge/-rendiwibawa25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rakhacimano@gmail.com)](mailto:rakhacimano@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-rpw_24-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rpw_24/)](https://instagram.com/rpw_24/)
-[![Dribbble Badge](https://img.shields.io/badge/-rendiwibawa-magenta?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.dribbble.com/rendiwibawa/)](https://dribbble.com/rendiwibawa/)
+
 
 - 🔭 **I’m currently studying on <a href="https://smktelkom-mlg.sch.id">SMK Telkom Malang.</a>**
 - 🌱 **I’m currently learning UI/UX Design and Frontend Web Development.**

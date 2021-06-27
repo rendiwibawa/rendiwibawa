@@ -1,11 +1,11 @@
-<h1> Hi there 👋, I'm Rakha Here </h1>
+<h1> Hi there 👋, I'm Rendi Wibawa Here </h1>
 
 <h3>Follow My Social:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-rakhaputra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakhaputra/)](https://www.linkedin.com/in/rakhaputra/)
-[![Gmail Badge](https://img.shields.io/badge/-rakhacimano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rakhacimano@gmail.com)](mailto:rakhacimano@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-rakhacimano-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rakhacimano/)](https://instagram.com/rakhacimano/)
-[![Dribbble Badge](https://img.shields.io/badge/-rakhaputra-magenta?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.dribbble.com/rakhaputra/)](https://dribbble.com/rakhaputra/)
+[![Linkedin Badge](https://img.shields.io/badge/-rendiwibawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rendiwibawa/)](https://www.linkedin.com/in/rendiwibawa/)
+[![Gmail Badge](https://img.shields.io/badge/-rendiwibawa25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rakhacimano@gmail.com)](mailto:rakhacimano@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-rpw_24-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rpw_24/)](https://instagram.com/rpw_24/)
+[![Dribbble Badge](https://img.shields.io/badge/-rendiwibawa-magenta?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.dribbble.com/rendiwibawa/)](https://dribbble.com/rendiwibawa/)
 
 - 🔭 **I’m currently studying on <a href="https://smktelkom-mlg.sch.id">SMK Telkom Malang.</a>**
 - 🌱 **I’m currently learning UI/UX Design and Frontend Web Development.**

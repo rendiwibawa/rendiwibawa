@@ -27,7 +27,7 @@
 
 ![Rakha's github stats](https://github-readme-stats.vercel.app/api?username=rakhacimano&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhacimano&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendiwibawa&theme=dracula)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of my github readme
 
